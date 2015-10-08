@@ -20,6 +20,7 @@ A little more calculation around 113 will give you a real number of steps: ```11
 
 ## Program output
 
+```
 jump=0 step=112
 ####################
 jump=1 step=108
@@ -126,8 +127,11 @@ jump=97 step=108
 jump=98 step=111
 jump=99 step=114 (overjump)
 114->112
+```
 
 ## Other valid combinations of the same problem
+
+```
 steps=4, jumps=06
 steps=9, jumps=11
 steps=16, jumps=15
@@ -161,5 +165,5 @@ steps=177, jumps=158
 steps=184, jumps=162
 steps=189, jumps=167
 steps=196, jumps=174
-
+```
 
