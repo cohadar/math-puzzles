@@ -12,3 +12,9 @@ When monk runs up he jumps ```3``` steps at a time.
 
 Every morning monk makes ```99``` jumps.
 How many steps does the temple have?
+
+
+[HINT](https://github.com/cohadar/math-puzzles/blob/master/shaolin_steps_hint.md)
+
+
+[SOLUTION](https://github.com/cohadar/math-puzzles/blob/master/shaolin_steps_solution.md)
